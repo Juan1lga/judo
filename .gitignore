@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+backend/judo_control/venv/
+
+# Archivos de compilación y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.sqlite3-journal
+
+# Archivos de entorno
+.env
+*.env
+
+# Archivos de IDE
+.idea/
+.vscode/
+
+# Archivos de compilación de frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
